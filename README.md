@@ -7,3 +7,4 @@
 
 • Aprendendo Git
 
+![Alt Text](https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif)
