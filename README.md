@@ -4,3 +4,5 @@
 • Apredendo python
 
 • Sei o básico de C/C++
+
+• Aprendendo Git
