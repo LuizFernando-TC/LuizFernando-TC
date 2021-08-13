@@ -1,5 +1,5 @@
 ### Oi
- • Participo do <a href=https://codaqui.dev/>texto</a>
+ • Participo do <a href=https://codaqui.dev/>Codaqui</a>
  
  • Apredendo python
  
