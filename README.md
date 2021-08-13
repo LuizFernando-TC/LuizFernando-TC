@@ -1,5 +1,5 @@
 ### Oi
-• Participo do Codaqui
+• Participo do Codaqui https://github.com/codaqui
 
 • Apredendo python
 
@@ -7,4 +7,3 @@
 
 • Aprendendo Git
 
-https://i2.wp.com/sempreupdate.com.br/wp-content/uploads/2018/07/AggressiveLeanArcticwolf-size_restricted.gif?fit=400%2C300&ssl=1
