@@ -7,4 +7,4 @@
 
 • Aprendendo Git
 
-![image](https://user-images.githubusercontent.com/85886605/129375303-51e482af-7f9a-4d9b-a107-7f8c6a20018e.png)
+https://i2.wp.com/sempreupdate.com.br/wp-content/uploads/2018/07/AggressiveLeanArcticwolf-size_restricted.gif?fit=400%2C300&ssl=1
