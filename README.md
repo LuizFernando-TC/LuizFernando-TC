@@ -1,5 +1,5 @@
 ### Oi
-• Participo do Codaqui
+• Participo do @Codaqui
 
 • Apredendo python
 
