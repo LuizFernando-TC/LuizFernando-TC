@@ -3,7 +3,7 @@
  
  • Apredendo python
  
- • Sei o básico de C/C++
+ • Estudando <a href=https://www.python.org//>Python</a>
  
  • Aprendendo Git
 
