@@ -1,4 +1,4 @@
-### Oi, sou o Luiz Fernando
+### Olá
  • Participo da <a href=https://codaqui.dev/>Codaqui</a>
  
  • Estudando C/C++, CSS, HTML, Javascript, e Python
