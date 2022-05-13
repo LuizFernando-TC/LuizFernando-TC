@@ -2,7 +2,7 @@
  
  Não tenho muitas histórias para contar sobre minha jornada na área de programação, porém desde que a conheci, me fascino cada vez mais quando descubro novas coisas neste meio.
  
- Hoje, participo da <a href=https://codaqui.dev/>Codaqui</a>. A Codaqui é uma escola de programação sem fins lucrativos que apoia jovens que desejam aprender a desenvolver produtos tecnológicos mas não possuem acesso a uma educação tecnológica por outros meios.
+ Hoje, participo de uma instituição chamada <a href=https://codaqui.dev/>Codaqui</a>. A <a href=https://codaqui.dev/>Codaqui</a> é uma escola de programação sem fins lucrativos que apoia jovens que desejam aprender a desenvolver produtos tecnológicos mas não possuem acesso a uma educação tecnológica por outros meios.
  
  Estou estudando C/C++, CSS, HTML, Javascript, e Python 
  
