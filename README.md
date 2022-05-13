@@ -1,11 +1,7 @@
 ### Oi
- • Participo do <a href=https://codaqui.dev/>Codaqui</a>
- 
- • Apredendo python
+ • Participo da <a href=https://codaqui.dev/>Codaqui</a>
  
  • Estudando C/C++, CSS, HTML, Javascript, e Python
- 
- • Aprendendo Git
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC&show_icons=true&theme=vue-dark)
 
