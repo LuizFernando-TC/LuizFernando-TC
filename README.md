@@ -9,6 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC)](https://github.com/LuizFernando-TC/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC&show_icons=true&theme=radical)
 
 Em desenvolvimento...
 
