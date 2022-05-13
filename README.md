@@ -3,7 +3,7 @@
  
  • Apredendo python
  
- • Estudando <a href=https://www.python.org//>Python</a>
+ • Estudando <a href=https://www.python.org/>Python</a>
  
  • Aprendendo Git
 
