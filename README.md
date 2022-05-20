@@ -9,3 +9,5 @@
  Veja um pouco das minhas estatísticas no Github:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC&show_icons=true&theme=vue-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuizFernando-TC)](https://github.com/ryo-ma/github-profile-trophy)
