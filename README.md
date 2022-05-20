@@ -10,4 +10,4 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/LuizFernando-TC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernando-TC&layout=compact)](https://github.com/LuizFernando-TC/github-readme-stats)
