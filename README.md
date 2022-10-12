@@ -7,5 +7,7 @@
  Estou estudando C/C++, CSS, HTML, Javascript, e Python.
  
  Veja um pouco das minhas estatísticas no Github:
- 
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC&show_icons=true&theme=vue-dark)
+
+[![@luizfernando's Holopin board](https://holopin.me/luizfernando)](https://holopin.io/@luizfernando)
